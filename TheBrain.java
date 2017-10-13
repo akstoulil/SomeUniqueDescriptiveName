@@ -8,6 +8,5 @@ public class TheBrain {
 		// add more
 		
 		System.out.println("I am making changes!");
-		
 	}
 }
